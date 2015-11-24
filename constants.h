@@ -1,0 +1,2 @@
+#define MAX_TERM_LEN 30
+#define MAX_DOC_LEN 20000
