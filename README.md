@@ -6,7 +6,7 @@ Just hit the following command, it will tell you the necesary arguments.
 ```
 bash buildindex.sh
 ```
-The indexer create a directory named `indexes`, in your current working directory, where it stores all the indexes. 
+The indexer creates a directory named `indexes`, in your current working directory, where it stores all the indexes. 
 
 **How to execute queries**
 
