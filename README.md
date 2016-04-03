@@ -1,7 +1,7 @@
 # JSENG
 **How to build index**
 
-Just hit the following command, it will tell you the arguments in needs.
+Just hit the following command, it will tell you the necesary arguments.
 
 ```
 bash buildindex.sh
